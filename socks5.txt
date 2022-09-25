@@ -3,6 +3,7 @@ SOCKS5 Proxies
 For the full list go to:
 https://proxylist.to
 
+38.127.179.84:11537
 72.221.171.135:4145
 66.42.224.229:41679
 45.56.83.46:8017
