@@ -3,4 +3,6 @@ SOCKS5 Proxies
 For the full list go to:
 https://proxylist.to
 
+72.210.221.223:4145
+46.101.37.189:7497
 ---------- [ ProxyList.to ] ----------
