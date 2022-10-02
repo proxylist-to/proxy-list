@@ -3,6 +3,7 @@ SOCKS4 Proxies
 For the full list go to:
 https://proxylist.to
 
+165.227.104.122:6791
 168.232.122.35:5678
 109.122.86.234:4153
 172.105.107.25:9999
