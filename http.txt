@@ -3,6 +3,8 @@ HTTP Proxies
 For the full list go to:
 https://proxylist.to
 
+91.187.69.2:80
+202.131.159.226:80
 182.16.34.100:80
 209.97.155.220:999
 191.97.61.213:999
