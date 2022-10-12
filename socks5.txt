@@ -3,6 +3,7 @@ SOCKS5 Proxies
 For the full list go to:
 https://proxylist.to
 
+47.243.75.115:8011
 194.233.67.17:56291
 70.166.167.55:57745
 149.129.213.200:8080
