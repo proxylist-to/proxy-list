@@ -3,6 +3,8 @@ HTTP Proxies
 For the full list go to:
 https://proxylist.to
 
+146.196.48.2:80
+165.154.226.12:80
 37.32.22.14:8118
 87.246.54.221:8888
 8.210.83.33:80
