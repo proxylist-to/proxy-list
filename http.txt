@@ -3,6 +3,7 @@ HTTP Proxies
 For the full list go to:
 https://proxylist.to
 
+37.32.22.14:8118
 87.246.54.221:8888
 8.210.83.33:80
 14.162.146.186:19132
