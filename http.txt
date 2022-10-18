@@ -3,6 +3,7 @@ HTTP Proxies
 For the full list go to:
 https://proxylist.to
 
+47.252.4.64:8888
 103.146.196.24:8080
 186.211.177.161:8082
 179.1.98.54:999
