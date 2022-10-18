@@ -3,6 +3,7 @@ HTTP Proxies
 For the full list go to:
 https://proxylist.to
 
+47.96.99.165:1080
 186.5.94.202:999
 152.231.98.56:999
 103.155.54.73:83
