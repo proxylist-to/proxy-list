@@ -3,6 +3,7 @@ SOCKS5 Proxies
 For the full list go to:
 https://proxylist.to
 
+61.130.151.230:7302
 175.10.46.39:23456
 98.188.47.132:4145
 72.195.34.35:27360
