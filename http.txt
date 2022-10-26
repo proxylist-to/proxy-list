@@ -3,6 +3,7 @@ HTTP Proxies
 For the full list go to:
 https://proxylist.to
 
+185.190.38.22:8080
 120.237.144.57:9091
 202.131.159.230:80
 80.244.226.92:8080
