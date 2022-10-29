@@ -3,6 +3,7 @@ HTTP Proxies
 For the full list go to:
 https://proxylist.to
 
+37.236.59.107:8080
 103.171.5.33:8080
 119.23.110.63:80
 111.160.204.146:9091
