@@ -3,6 +3,7 @@ SOCKS5 Proxies
 For the full list go to:
 https://proxylist.to
 
+172.86.75.178:61442
 184.178.172.23:4145
 174.77.111.198:49547
 173.212.250.65:38411
