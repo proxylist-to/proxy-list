@@ -3,6 +3,8 @@ HTTP Proxies
 For the full list go to:
 https://proxylist.to
 
+47.254.239.51:8080
+181.232.190.138:999
 209.201.29.20:80
 45.174.77.1:999
 41.188.149.76:80
