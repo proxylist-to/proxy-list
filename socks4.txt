@@ -3,6 +3,7 @@ SOCKS4 Proxies
 For the full list go to:
 https://proxylist.to
 
+38.127.179.103:13384
 8.219.217.124:80
 174.64.199.79:4145
 168.119.255.42:1080
