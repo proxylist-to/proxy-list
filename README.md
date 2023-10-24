@@ -6,5 +6,5 @@
 
 
 # ProxyList.to Proxy List
-A list of free proxies automatically updated by [https://proxylist.to/](https://proxylist.to/?ref=github_list)
+A list of free proxies automatically updated by [https://proxylist.to/](https://proxylist.to/?ref=github_list) <br>
 For a longer list, visit the Website and download it for free there.
